@@ -239,11 +239,4 @@ RentalAgreementSystem/
 ├── hardhat.config.js     # Solidity 0.8.19, optimizer 200 runs, viaIR
 ├── package.json
 ├── .env.example
-└── struture.txt          # Original layout notes
 ```
-
-## License
-
-Source files carry the `SPDX-License-Identifier: MIT` header (inherited from the OpenZeppelin conventions used throughout).
-
-Notwithstanding the above, **this project is an academic submission and is provided for non-commercial, educational use only.** Any commercial use, redistribution for profit, or deployment as a paid/production service is prohibited without prior written permission from the author.
