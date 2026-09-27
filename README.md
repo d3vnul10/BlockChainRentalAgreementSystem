@@ -23,7 +23,6 @@ A Solidity-based smart contract system for managing property rental agreements o
 - [Frontend](#frontend)
 - [Security Considerations](#security-considerations)
 - [Project Structure](#project-structure)
-- [License](#license)
 
 ---
 
